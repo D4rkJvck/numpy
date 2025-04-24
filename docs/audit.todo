@@ -332,7 +332,7 @@ Exercise 8 - Wine:
 
 Exercise 9 - Football tournament:
 
-  ☐ Is the output the following?
+  ✔ Is the output the following? @done(25-04-23 12:37)
     ```console
       [[0 1 2 3 5]
       [8 7 9 4 6]]
